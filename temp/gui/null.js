@@ -1,0 +1,1 @@
+data={ axes: true, raw: { length: 0, height: 0, depth: 0, color: 'white', color_edge: 'black' }, items: [ { length: 0, height: 0, depth: 0, color: 'silver', color_edge: 'silver', x: 0, y: 0, z: 0, }, ] }
