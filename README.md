@@ -1,1 +1,3 @@
-# container-organization
+# Descrição do Projeto
+O trabalho consistia na criação de uma API que tinha como papel principal a acomodação de caixas dentro de contentores, facilitando o trabalho dos colaboradores de modo a que estes possam mais facilmente gerir e visualizar os itens expedidos para cada encomenda (um ou mais contentores). Para além disso, o projeto foi implementado em linguagem Java e está de acordo com a programação orientado de objetos, o que nos permite reutilizar, alterar e desenvolver código mais facilmente. Foi-nos também disponibilizado um conjunto de recursos que definem os contratos que permitem o desenvolvimento da API. Através destes, o grupo implementou diversas classes para suportar cada uma das operações definidas nas interfaces.
+
